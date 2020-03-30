@@ -9,3 +9,6 @@ A variation of the Dice Roller app from the [Udacity Developing Android App with
 - Namespaces
 - Gradle
 - Building a basic single view app 
+
+### Sources
+Bart Simpson Images from [stickpng.com](https://www.stickpng.com/)
