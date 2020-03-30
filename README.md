@@ -6,6 +6,6 @@ A variation of the Dice Roller app from the [Udacity Developing Android App with
 ## Project Goals
 - Introduction to Android Studio
 - Linear Layout
-- Name Spaces
+- Namespaces
 - Gradle
 - Building a basic single view app 
